@@ -1,0 +1,6 @@
+opencv-contrib-python
+keras
+tensorflow-gpu
+numpy
+pandas
+matplotlib
